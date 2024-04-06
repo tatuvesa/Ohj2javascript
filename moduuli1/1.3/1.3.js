@@ -5,8 +5,10 @@ const num3 = parseFloat(prompt('Third number: '));
 
 const sum = num1 + num2 + num3;
 const times = num1 * num2 * num3;
-const avg = (num1 + num2 + num3)/3;
+const avg = (num1 + num2 + num3) / 3;
 
-console.log('Summa on ' + sum +
-            ', kerto on ' + times +
-            ', keskiarvo on ' + avg);
+console.log(
+    'Summa on ' + sum + ', ' +
+    'kerto on ' + times + ', ' +
+    'keskiarvo on ' + avg
+);
