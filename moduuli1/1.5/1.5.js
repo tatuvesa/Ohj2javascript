@@ -1,5 +1,5 @@
-'use strict';
-const year = parseInt(prompt('Submit a year: '));
+"use strict";
+const year = parseInt(prompt("Submit a year: "));
 let isLeap = false;
 
 if (year % 4 === 0) {
