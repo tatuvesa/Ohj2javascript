@@ -1,21 +1,21 @@
 'use strict';
 const name = prompt("Please enter your name");
-const house = Math.floor(Math.random() * 4) + 1;
-let houses = "";
+const houses = Math.floor(Math.random() * 4) + 1;
+let house = "";
 
-switch(house) {
+switch(houses) {
   case 1:
-    houses = "Gryffindor";
+    house = "Gryffindor";
     break;
   case 2:
-    houses = "Slytherin";
+    house = "Slytherin";
     break;
   case 3:
-    houses = "Hufflepuff";
+    house = "Hufflepuff";
     break;
   case 4:
-    houses = "Ravenclaw";
+    house = "Ravenclaw";
     break;
 }
 
-document.getElementById("result").innerHTML = name + ", you are a " + houses + ".";
+document.getElementById("result").innerHTML = name + ", you are a " + house + ".";
