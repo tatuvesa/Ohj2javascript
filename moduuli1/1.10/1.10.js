@@ -1,5 +1,5 @@
-const numDice = prompt("Amount of dice", "2");
-const sumGoal = prompt("Sum goal", "7");
+const numDice = prompt("Amount of dice");
+const sumGoal = prompt("Sum goal");
 let successfulRolls = 0;
 const totalRolls = 10000;
 

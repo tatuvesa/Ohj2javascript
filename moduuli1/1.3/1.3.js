@@ -1,14 +1,12 @@
-'use strict';
-const num1 = parseFloat(prompt('First number:  '));
-const num2 = parseFloat(prompt('Second number: '));
-const num3 = parseFloat(prompt('Third number: '));
+"use strict";
+let num1 = parseInt(prompt("Enter the first number: "));
+let num2 = parseInt(prompt("Enter the second number: "));
+let num3 = parseInt(prompt("Enter the third number: "));
 
-const sum = num1 + num2 + num3;
-const times = num1 * num2 * num3;
-const avg = (num1 + num2 + num3) / 3;
+let sum = num1 + num2 + num3;
+let product = num1 * num2 * num3;
+let average = sum / 3;
 
-console.log(
-    'Summa on ' + sum + ', ' +
-    'kerto on ' + times + ', ' +
-    'keskiarvo on ' + avg
-);
+document.getElementById("sum").innerHTML = `The sum is: ${sum}`;
+document.getElementById("product").innerHTML = `The product is: ${product}`;
+document.getElementById("average").innerHTML = `The average is: ${average.toFixed(2)}`;
