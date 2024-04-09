@@ -4,7 +4,7 @@ let leaps = "";
 
 for (let year = startYear; year <= endYear; year++) {
   if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
-    leaps += "<li>" + year + "</li>";
+    leaps += `<li>${year}</li>`;
   }
 }
 
