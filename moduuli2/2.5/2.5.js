@@ -12,7 +12,6 @@ do {
         numbers.push(num);
     }
 } while (!duplicate);
-
 numbers.sort((a, b) => a - b);
 console.log("Given numbers in ascending order:");
 numbers.forEach(num => console.log(num));

@@ -7,7 +7,6 @@ do {
         numbers.push(num);
     }
 } while (num !== 0);
-
 numbers.sort((a, b) => b - a);
 console.log("Numbers from largest to smallest:");
 numbers.forEach(num => console.log(num));
