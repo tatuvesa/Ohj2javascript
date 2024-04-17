@@ -1,10 +1,10 @@
 window.onload = function() {
     var targetElement = document.getElementById("target");
     targetElement.innerHTML = `
-        <li>First item</li>
-        <li>Second item</li>
-        <li>Third item</li>
+        <ul class="my-list">
+            <li>First item</li>
+            <li>Second item</li>
+            <li>Third item</li>
+        </ul>
     `;
-
-    targetElement.classList.add("my-list");
 };
