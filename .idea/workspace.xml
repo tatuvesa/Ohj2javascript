@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0bb45617-39cc-4f97-a637-116e9c78d6e8" name="Changes" comment="uus">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduuli3/t1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli3/t1/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduuli3/t2/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli3/t2/2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,39 +50,40 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.1.1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.10.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.7.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.8.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.9.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.2.1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.2.2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.2.3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.2.5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.2.6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.7.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.1.1.html.executor": "Run",
+    "JavaScript Debug.1.10.html.executor": "Run",
+    "JavaScript Debug.1.2.html.executor": "Run",
+    "JavaScript Debug.1.3.html.executor": "Run",
+    "JavaScript Debug.1.4.html.executor": "Run",
+    "JavaScript Debug.1.5.html.executor": "Run",
+    "JavaScript Debug.1.6.html.executor": "Run",
+    "JavaScript Debug.1.7.html.executor": "Run",
+    "JavaScript Debug.1.8.html.executor": "Run",
+    "JavaScript Debug.1.9.html.executor": "Run",
+    "JavaScript Debug.1.html.executor": "Run",
+    "JavaScript Debug.2.1.html.executor": "Run",
+    "JavaScript Debug.2.2.html.executor": "Run",
+    "JavaScript Debug.2.3.html.executor": "Run",
+    "JavaScript Debug.2.5.html.executor": "Run",
+    "JavaScript Debug.2.6.html.executor": "Run",
+    "JavaScript Debug.2.html.executor": "Run",
+    "JavaScript Debug.6.html.executor": "Run",
+    "JavaScript Debug.7.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -121,7 +122,7 @@
       <workItem from="1713248472142" duration="238000" />
       <workItem from="1713261909410" duration="207000" />
       <workItem from="1713363753461" duration="22000" />
-      <workItem from="1713363781574" duration="334000" />
+      <workItem from="1713363781574" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -283,7 +284,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713168119066</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="uus">
+      <option name="closed" value="true" />
+      <created>1713364289502</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1713364289502</updated>
+    </task>
+    <task id="LOCAL-00022" summary="uus">
+      <option name="closed" value="true" />
+      <created>1713364319285</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713364319285</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
