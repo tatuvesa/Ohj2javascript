@@ -1,5 +1,5 @@
 window.onload = function() {
-    var targetElement = document.getElementById("target");
+    const targetElement = document.getElementById("target");
     targetElement.innerHTML = `
         <ul class="my-list">
             <li>First item</li>
