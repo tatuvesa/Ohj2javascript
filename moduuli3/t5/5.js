@@ -93,3 +93,28 @@ const picArray = [
 ];
 
 // add your code here
+picArray.forEach(pic => {
+  const article = document.createElement('article');
+  article.className = 'card';
+
+  const h2 = document.createElement('h2');
+  h2.textContent = pic.title;
+  article.appendChild(h2);
+
+  const figure = document.createElement('figure');
+  const img = document.createElement('img');
+  img.src = pic.image.medium;
+  img.alt = pic.title;
+  figure.appendChild(img);
+
+  const figcaption = document.createElement('figcaption');
+  figcaption.textContent = pic.caption;
+  figure.appendChild(figcaption);
+  article.appendChild(figure);
+
+  const p = document.createElement('p');
+  p.textContent = pic.description;
+  article.appendChild(p);
+
+  document.querySelector('section').appendChild(article);
+});
