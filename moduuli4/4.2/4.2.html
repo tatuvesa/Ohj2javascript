@@ -2,14 +2,16 @@
 <html>
 
 <head>
-    <title>TV Show Search</title>
+    <title>TV Series Search</title>
+    <script src="4.2.js" defer></script>
 </head>
 
 <body>
-    <form action="https://api.tvmaze.com/search/shows">
+    <form id="searchForm">
         <input id="query" name="q" type="text">
         <input type="submit" value="Search">
     </form>
+    <div id="result"></div>
 </body>
 
 </html>
